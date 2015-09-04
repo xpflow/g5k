@@ -1,4 +1,4 @@
-import "github.com/thinred/xpflow-dummy"
+import "github.com/xpflow/test"
 
 activity :version do
   return "alpha"
